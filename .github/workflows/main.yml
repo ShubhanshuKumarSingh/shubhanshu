@@ -1,6 +1,6 @@
-name : "Shubhshu-workflow"
-on : 
- push :
-  -'main' :
+name: "Shubhshu-workflow"
+on: 
+ push:
+  -'main':
   -'feature/**':
-  -'hot-fix' :
+  -'hot-fix':
